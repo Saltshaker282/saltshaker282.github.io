@@ -13,10 +13,16 @@
     size: 12px;
 }
 
-
-#bodytext {
-    text-align: center;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+.bodyblock {
+    
+    height: 960px;
+    width: 960px;
+    background-color: white;
+    position: absolute;
+    top: 200px;
+    z-index: -1;
+    margin-left: 280px;
+    float: left;
 }
 
 #threeuptop {
@@ -34,3 +40,84 @@
     border-style: solid;
     
 }
+
+#pfpdetails{
+    overflow: auto;
+    position: relative;
+    left: 290px;
+    top: 160px;
+    
+}
+
+.paraone{
+    height: 480px;
+    width: 650px;
+    font-size: 22px;
+    margin-left: 590px;
+    margin-right: 280px;
+    background-color: white;
+    position: relative;
+    bottom: 160px;
+}
+
+.paratwo{
+    height: 480px;
+    width: 950px;
+    font-size: 22px;
+    margin-left: 290px;
+    margin-right: 280px;
+    background-color: white;
+    position: relative;
+    bottom: 360px;
+}
+
+.footer{
+    width: 100.2%;
+    height: 120px;
+    background-color: grey;
+    border-top: 8px solid #4aaaa5;
+    text-align: center;
+    position: relative;
+    top: 15px;
+    padding-top: 100px;
+
+}
+
+h2 {
+    font-weight: bolder;
+    font-size: 40px;
+    position: relative;
+    left: 340px;
+    top: 100px;
+    color: #4aaaa5;
+    
+}
+
+#hang {
+    position: relative;
+    left: 300px;
+    top: 100px;
+
+}
+
+#rpgg {
+    position: relative;
+    left: 800px;
+    top: -150px;
+    z-index: 1;
+}
+
+#triv {
+    position: relative;
+    left: 300px;
+    top: -150px;
+    z-index: 2;
+}
+
+#riw {
+    position: relative;
+    left: 300px;
+    top: -400px;
+    z-index: 3;
+}
+
