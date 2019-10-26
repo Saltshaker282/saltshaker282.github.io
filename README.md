@@ -19,3 +19,4 @@ Repository created, project started.
 
 10/26/19 6:00pm
 -final push, unable to troubleshoot issues at current state
+-pages linked successfully to each other
