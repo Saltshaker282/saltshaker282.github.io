@@ -16,3 +16,6 @@ Repository created, project started.
 -issue still unresolved on pages 1-2 (about me, portfolio)
 -issue seems to be a massive white space added - maybe due to the very manual nature of most of my objects
 -Tired.
+
+10/26/19 6:00pm
+-final push, unable to troubleshoot issues at current state
