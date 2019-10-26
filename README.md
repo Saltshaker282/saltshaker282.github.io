@@ -10,3 +10,9 @@ Repository created, project started.
 -having difficulties with the site, doing a push for safety
 -About me page completed (mostly)
 -Portfolio page created and css is being implemented
+
+10/26/19 1:50am
+-first solid push with each page containing elements
+-issue still unresolved on pages 1-2 (about me, portfolio)
+-issue seems to be a massive white space added - maybe due to the very manual nature of most of my objects
+-Tired.

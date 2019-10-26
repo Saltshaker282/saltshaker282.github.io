@@ -95,29 +95,35 @@ h2 {
 
 #hang {
     position: relative;
-    left: 300px;
+    left: 250px;
     top: 100px;
 
 }
 
 #rpgg {
     position: relative;
-    left: 800px;
+    left: 790px;
     top: -150px;
     z-index: 1;
 }
 
 #triv {
     position: relative;
-    left: 300px;
+    left: 250px;
     top: -150px;
     z-index: 2;
 }
 
 #riw {
     position: relative;
-    left: 300px;
+    left: 790px;
     top: -400px;
     z-index: 3;
 }
 
+#rps {
+    position: relative;
+    left: 250px;
+    top: -375px;
+    z-index: 4;  
+}
